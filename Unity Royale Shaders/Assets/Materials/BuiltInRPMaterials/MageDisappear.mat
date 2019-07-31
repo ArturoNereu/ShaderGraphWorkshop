@@ -8,7 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: MageDisappear
-  m_Shader: {fileID: 4800000, guid: 1a0072ab865d33e47bf89e9ad13254ae, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: f6a73a7b18edf7a48b08e9ec123f82a9,
+    type: 3}
   m_ShaderKeywords: _METALLICGLOSSMAP _NORMALMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,6 +20,18 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_16900296:
+        m_Texture: {fileID: 2800000, guid: da4fdaee7ff467d41912dd75ea9247ac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8F9EC9E4:
+        m_Texture: {fileID: 2800000, guid: 76df92bfc85abba40a344173e039bda7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_AC0776C7:
+        m_Texture: {fileID: 2800000, guid: d85b3d819233c5b48b0e299ebbc935c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: d85b3d819233c5b48b0e299ebbc935c0, type: 3}
         m_Scale: {x: 1, y: 1}
