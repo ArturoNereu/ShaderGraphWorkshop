@@ -2,14 +2,17 @@
 Workshop delivered at SIGGRAPH 2019 to teach Shader Graph
 
 01 Basic Color
-![BasicColor](https://user-images.githubusercontent.com/263776/62269398-cf679480-b3e7-11e9-84ff-ed94c3991afe.png)
+
+![Basic Color](https://user-images.githubusercontent.com/263776/62270079-eeffbc80-b3e9-11e9-9321-2f74edf9bf8e.gif)
+
 
 02 Basic Texture 
-![BasicTexture](https://user-images.githubusercontent.com/263776/62269441-f32ada80-b3e7-11e9-850c-c89b63557914.png)
+
+![Basic Texture](https://user-images.githubusercontent.com/263776/62270123-0e96e500-b3ea-11e9-94b6-1848185c08d9.gif)
 
 03 Basic Vertex Animation
 
-![BasicVertex](https://user-images.githubusercontent.com/263776/62269592-70564f80-b3e8-11e9-80cd-c34ad38ce50d.gif)
+![Basic Vertex](https://user-images.githubusercontent.com/263776/62269592-70564f80-b3e8-11e9-80cd-c34ad38ce50d.gif)
 
 04 Basic Masking
 
