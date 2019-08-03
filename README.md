@@ -3,6 +3,8 @@ Workshop delivered at SIGGRAPH 2019 to teach Shader Graph
 
 Please find the presentation here: https://drive.google.com/file/d/1VpJus9bX_aORTs5hukJwDEieH7vA0G2U/view?usp=sharing
 
+And the cleaned up project to start and follow the tutorial is here: https://drive.google.com/open?id=1kb7ooEZ6MMx1WnbRcdcYhhbtJwuxxvtG
+
 01 Basic Color
 
 ![Basic Color](https://user-images.githubusercontent.com/263776/62270079-eeffbc80-b3e9-11e9-9321-2f74edf9bf8e.gif)
