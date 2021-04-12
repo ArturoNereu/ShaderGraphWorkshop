@@ -1,4 +1,4 @@
-# ShaderGraphWorkshop
+# Shader Graph Workshop
 Workshop delivered at SIGGRAPH 2019 to teach Shader Graph
 
 Please find the presentation here: https://drive.google.com/file/d/1VpJus9bX_aORTs5hukJwDEieH7vA0G2U/view?usp=sharing
